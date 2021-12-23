@@ -12,3 +12,8 @@ li {
     font-size: 24px;
     font-family: Georgia, sans-serif;
 }
+
+img {
+    height: auto;
+    width: 500px;
+}
