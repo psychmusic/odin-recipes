@@ -4,5 +4,11 @@ h1 {
 }
 
 body {
-    background-color: grey;
+    background-color: silver;
+}
+
+li {
+    font: bold;
+    font-size: 24px;
+    font-family: Georgia, sans-serif;
 }
