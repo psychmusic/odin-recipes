@@ -17,3 +17,8 @@ img {
     height: auto;
     width: 500px;
 }
+
+p {
+    font-size: 26px;
+    font-family: 'Times New Roman,' sans-serif;
+}
